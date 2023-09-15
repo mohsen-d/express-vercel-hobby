@@ -1,0 +1,19 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "How to reduce number of your expressjs project routes when using vercel hubby hosting",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index"
+  },
+  "keywords": [],
+  "author": "Mohsen Dorparasti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.1"
+  }
+}
