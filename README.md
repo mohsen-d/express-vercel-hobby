@@ -1,6 +1,6 @@
 # THE PROBLEM
 
-When I wanted to deploy my little personal blog to vercel hubby, I got an error saying that `there is a limit of 12 functions on this plan`. So I needed to decrease the number of endpoints.
+When I wanted to deploy my little personal blog to vercel hobby, I got an error saying that `there is a limit of 12 functions on this plan`. So I needed to decrease the number of endpoints.
 
 # THE SOLUTION
 
